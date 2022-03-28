@@ -1,0 +1,2 @@
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\publish\JoshsProject.pdb
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\publish\JoshsProject.exe

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j40h68369V/qH4R1iUqsmL/jta+JeAT543L5u/aUFfS0/u3T7djiSdgwdgCMOS3irOydJCR+j31Wfw9bsD0tsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alyssa.n.hornung\\Documents\\JoshsProject\\JoshsProject\\JoshsProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyssa.n.hornung\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.20\\microsoft.netcore.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\alyssa.n.hornung\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.20\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.20.nupkg.sha512",
+    "C:\\Users\\alyssa.n.hornung\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.20\\microsoft.aspnetcore.app.runtime.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\JoshsProject.exe
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\JoshsProject.deps.json
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\JoshsProject.runtimeconfig.json
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\JoshsProject.runtimeconfig.dev.json
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\JoshsProject.dll
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\bin\Release\netcoreapp3.1\JoshsProject.pdb
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\obj\Release\netcoreapp3.1\JoshsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\obj\Release\netcoreapp3.1\JoshsProject.AssemblyInfoInputs.cache
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\obj\Release\netcoreapp3.1\JoshsProject.AssemblyInfo.cs
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\obj\Release\netcoreapp3.1\JoshsProject.csproj.CoreCompileInputs.cache
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\obj\Release\netcoreapp3.1\JoshsProject.dll
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\obj\Release\netcoreapp3.1\JoshsProject.pdb
+C:\Users\alyssa.n.hornung\Documents\JoshsProject\JoshsProject\obj\Release\netcoreapp3.1\JoshsProject.genruntimeconfig.cache
